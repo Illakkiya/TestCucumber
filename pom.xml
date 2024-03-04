@@ -52,6 +52,14 @@
         <artifactId>extentreports-cucumber7-adapter</artifactId>
         <version>1.9.1</version>
     </dependency>
+
+        <!-- API dependency -->
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>3.3.0</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
         <dependency>
             <groupId>commons-io</groupId>
